@@ -23,7 +23,7 @@
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
-const mnemonic = 'balance couple corn ship tail audit educate crowd cram direct degree cheap';
+const mnemonic = 'ab0d097b06f0f85daf4f385fea588a60c28baa2159f231102d3399818e9f0b46';
 
 module.exports = {
   /**
